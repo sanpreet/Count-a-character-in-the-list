@@ -1,4 +1,6 @@
-# Count-a-character-in-the-list
+# Count-a-character-in-the-list  
+![205cdf64-db82-40cb-9002-5d61d8fbfaad](https://user-images.githubusercontent.com/3431730/77838906-dc669e80-7195-11ea-8a7f-a97452b0e090.jpeg)
+
 ## Final Output of this code
 ![screenshot](https://user-images.githubusercontent.com/3431730/43077797-276fba26-8ea6-11e8-84ae-a2fd9e368601.png)
 
